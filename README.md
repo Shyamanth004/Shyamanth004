@@ -2,7 +2,7 @@
 
 👀 I’m interested in Web Development
 
-🌱 I’m currently learning React
+🌱 I’m currently learning NextJS
 
 💞️ I’m looking to collaborate on ...
 
